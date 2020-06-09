@@ -1,21 +1,25 @@
 # reporting tool
 
+purpose: all people to see their issues, stories, tickets in circles.threefold.me and github.
+
 - user logs in using 3bot connect
-- user can configure: github name (because can be different compared to 3bot connect), stored in local config mgr
-- fetch all stories, tasks, projects, epics ... into local stor (redis backend?) 
+- github name stored in e.g. circles.threefold.me profile
+- if not there yet, fetch all stories, tasks, projects, epics ... into memory (nice model)
     - re-fetch every 5 min
-- in generic wiki site:
+- generate wiki pages 
   - create a wiki page per story, task, ...
   - use templates (cjinja2 on crystal) per type 
   - in each page make links to people, story (if subitem), to epic, ...
-- create some predefined 
+  - create some predefined pages per user (smartly chosen criteria, github & circles)
+    - stories, links to subitems
+    - issues
+    - ...
 
 ## components used
 
 crystal tools
-- publishing tools (make site per user and a generic one)
+- publishing tools (generate wikis)
 - jsng wizards for certain tooling for the user (phase 2)
-
 
 ## real wizard (phase 2)
 
