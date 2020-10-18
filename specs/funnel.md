@@ -3,7 +3,16 @@
 - name starts with FUNNEL_
 - is to track business opportunities
 
+## structure
+
+- modules
+  - kanban
+  - issues
+  - wiki
+
 ## custom fields
+
+are only custom fields on issues & stories (are 100% alike) !
 
 ### bookings
 
