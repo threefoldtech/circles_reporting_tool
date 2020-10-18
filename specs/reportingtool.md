@@ -1,6 +1,6 @@
 # reporting tool
 
-purpose: all people to see their issues, stories, tickets in circles.threefold.me and github.
+purpose: all people to see their issues, stories, tickets in circles.threefold.me
 
 - user logs in using 3bot connect
 - github name stored in e.g. circles.threefold.me profile
