@@ -34,7 +34,7 @@ each circle used is a copy from a template
 
 - name starts with FUNNEL_
 - is to track business opportunities
-- see [funnel](funnel.md]
+- see [funnel](funnel.md)
 
 ### project
 
@@ -52,4 +52,4 @@ each circle used is a copy from a template
 ### different type of objects
 
 
-- 
+ to be completed
