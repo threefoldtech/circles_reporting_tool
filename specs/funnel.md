@@ -9,6 +9,43 @@
   - kanban
   - issues
   - wiki
+  
+## how are the objects used to represent a funnel
+
+- an issue = is an oportunity (1 specific object)
+- once the status is to deal it goes to the kanban where it will be dealt with with more info, it means customer +- ready to sign
+
+## statuses
+
+### issue
+
+- New
+- Interested
+- Deal (means moved to story)
+- Blocked / Need Info (something to be done to ublock)
+- Lost
+- Postponed
+- Won
+
+### story (is a deal)
+
+- New (means is a deal, we need to make a proposal, or customer said yes so we can continue)
+- Proposal
+- Contract
+- Blocked / Need Info (something to be done to ublock)
+- Project (once project, will go out of funnel and will be dealt with as a PROJECT_ ...) = closed
+
+
+### item (is a task or checklist on the story)
+
+- New
+- In progress
+- Verification
+- Closed
+- Needs info
+
+
+
 
 ## custom fields
 
