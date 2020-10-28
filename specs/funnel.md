@@ -33,7 +33,9 @@
 - Proposal
 - Contract
 - Blocked / Need Info (something to be done to ublock)
-- Project (once project, will go out of funnel and will be dealt with as a PROJECT_ ...) = closed
+- Closed 
+    - can be a project_ ... means we need to work on a bigger project with a customer
+    - can be a signed, so nothing to do, make sure in comments field add link to customer home page
 
 
 ### item (is a task or checklist on the story)
@@ -45,7 +47,23 @@
 - Needs info
 
 
+## Serverities
 
+the estimate chance to get to closure on the opportunity
+
+- Unknown
+- 25%
+- 50%
+- 75%
+- 90%
+
+## Priority
+
+how urgent to work on the next step in the process
+
+- Low
+- Normal
+- High
 
 ## custom fields
 
@@ -91,11 +109,11 @@ are only custom fields on issues & stories (are 100% alike) !
   start_date: 
 - 
   user: despiegk
-  part: 10%
+  part: 1%
   type: booking
 - 
-  user: despiegk
-  part: 30%
+  user: andreas
+  part: 5%
   type: revenue
   
 ```
