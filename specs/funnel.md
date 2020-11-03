@@ -1,7 +1,7 @@
 # funnel
 
 - name starts with FUNNEL_
-- is to track business opportunities
+- is to track business opportunities or strategic partners (its a commercial funnel)
 
 ## structure
 
