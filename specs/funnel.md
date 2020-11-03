@@ -2,6 +2,7 @@
 
 - name starts with FUNNEL_
 - is to track business opportunities or strategic partners (its a commercial funnel)
+- template is on https://circles.threefold.me/project/despiegk-template_funnel/admin/project-profile/details
 
 ## structure
 
