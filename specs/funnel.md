@@ -21,8 +21,12 @@
 
 - New
 - Interested
-- Deal (means moved to story)
-- Blocked / Need Info (something to be done to ublock)
+- Deal
+  - means moved to story
+- Blocked
+  - project/deal/lead cannot be continued, something is blocking it, important to unblock asap
+- NeedInfo
+  - e.g. send proposal, need to send message, ...
 - Lost
 - Postponed
 - Won
@@ -32,7 +36,10 @@
 - New (means is a deal, we need to make a proposal, or customer said yes so we can continue)
 - Proposal
 - Contract
-- Blocked / Need Info (something to be done to ublock)
+- Blocked
+  - project/deal/lead cannot be continued, something is blocking it, important to unblock asap
+- NeedInfo
+  - e.g. send proposal, need to send message, ...
 - Closed 
     - can be a project_ ... means we need to work on a bigger project with a customer
     - can be a signed, so nothing to do, make sure in comments field add link to customer home page
@@ -51,7 +58,8 @@
 
 the estimate chance to get to closure on the opportunity
 
-- Unknown
+- unknown
+- low
 - 25%
 - 50%
 - 75%
